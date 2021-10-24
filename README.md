@@ -1,5 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Alam
 ---
+<div align="center"><img src=""/></div>
 
 I'm still new to programming and I'm still at a stage where I have to keep learning. I'm learning the basics of many programming languages, but I'm more focused on deepening my skills in Flutter.
 
