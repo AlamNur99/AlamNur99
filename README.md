@@ -6,7 +6,7 @@
 
 ### 🔧Some Technologies, Languages, Frameworks and others
 <p align="center">
-  <a href="pub.dev"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/></a>
+  <a href="https://pub.dev/"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/></a>
   <img width="60px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"/>
   <img width="60px" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"/>
   <img width="60px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png"/>
