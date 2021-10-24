@@ -1,8 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Alam
 ---
-<div align="center"><img src=""/></div>
+<div align="center"><img src="https://github.com/AlamNur99/AlamNur99/blob/master/assets/name.png"/></div>
 
-I'm still new to programming and I'm still at a stage where I have to keep learning. I'm learning the basics of many programming languages, but I'm more focused on deepening my skills in Flutter.
+<p align="center">I'm still new to programming and I'm still at a stage where I have to keep learning. I'm learning the basics of many programming languages, but I'm more focused on deepening my skills in Flutter.</p>
 
 ### Some Technologies, Languages, Frameworks and others
 <p align="center">
