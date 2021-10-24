@@ -33,8 +33,8 @@
 
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlamNur99&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlamNur99&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlamNur99&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlamNur99&theme=github_dark)
 
 
 <!--   GitHub stats graph -->
