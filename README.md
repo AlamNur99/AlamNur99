@@ -4,7 +4,7 @@
 
 <p align="center">I'm still new to programming and I'm still at a stage where I have to keep learning. I'm learning the basics of many programming languages, but I'm more focused on deepening my skills in Flutter.</p>
 
-### Some Technologies, Languages, Frameworks and others
+### 🔧Some Technologies, Languages, Frameworks and others
 <p align="center">
   <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
   <img width="60px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"/>
