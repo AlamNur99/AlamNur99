@@ -37,9 +37,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlamNur99&theme=github_dark)
 
 
-<!--   GitHub stats graph -->
+<!--   GitHub stats graph 
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlamNur99&theme=github)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlamNur99&theme=github) -->
 <hr>
 <p align="center"><b>let's connect with my social media</b></p>
 <p align="center">
